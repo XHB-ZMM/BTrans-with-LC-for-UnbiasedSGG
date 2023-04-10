@@ -191,7 +191,7 @@ class TransformerEncoder(nn.Module):
         return enc_output
 
 
-class TransformerContext(nn.Module):
+class BiTransformerContext(nn.Module):
     def __init__(self, config, obj_classes, rel_classes, in_channels):
         super().__init__()
         self.cfg = config
