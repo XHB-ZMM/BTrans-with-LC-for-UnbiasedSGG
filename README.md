@@ -187,6 +187,9 @@ The following file can be used for model visualization:
 
 `"./tools/visual_SGDET.py"`
 
+
+
+
 # Acknowledge
 This work is developed based on the SGG benchmark https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch
 
